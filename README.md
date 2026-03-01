@@ -20,27 +20,27 @@
 
 ---
 
-### `$ whoami`
+## 🖥️ Who am I?
 
 I'm **V** — 
 
-Currently deep in **C++**, **JNI**, and **DFIR**.
+Currently deep in **C++**, **Reverse Engineering**, **Game Hacking** and **DFIR**.
 
 ---
 
-### `$ cat interests.txt`
+## 🔍 Interests
 
 ```
 → Reverse Engineering
 → Low-Level Programming (C/C++)
 → Digital Forensics & Incident Response
-→ Game Internals
+→ Game Hacking
 → Windows Internals
 ```
 
 ---
 
-### `$ cat stack.txt`
+## 🛠️ Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -48,7 +48,7 @@ Currently deep in **C++**, **JNI**, and **DFIR**.
 
 ---
 
-### `$ reach`
+## 📬 Reach
 
 [![Discord](https://img.shields.io/badge/Discord-v3024203948-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
