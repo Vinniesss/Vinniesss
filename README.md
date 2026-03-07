@@ -2,7 +2,7 @@
 
 # ⟁ V
 
-**low-level enthusiast · reverse engineer · builder**
+**low-level enthusiast · reverse engineer**
 
 <br>
 
